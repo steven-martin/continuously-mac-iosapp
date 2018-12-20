@@ -43,11 +43,11 @@ Archive and Deploy the App to the App Store
 * Archive the App by going to ```Menu -> Product -> Archive```
 * The Archive window will appear with your new archive added
 * Click the 'Upload to App Store' / 'Distribute App' button
-* Select method of distribution: 'iOS App Store' and 'Upload'
+* Select method of distribution: e.g. 'iOS App Store' and 'Upload'
 * Select all of the distribution options and automatic signing
 * Once the App has been successfully uploaded to the App Store return to App Store Connect and review the new version.
 * The new version should appear with the status of 'Processing' on App Store Connect at ```My Apps -> All Builds -> Activity```
-* Once the new version has finished 'Processing' (which can take a number of hours) the build will be available on App Store Connect
-* You can now create a new version of the App on App Store Connect, enter the Apps details and Submit it for Review.
+* Once the new version has finished 'Processing' (which can take a while) the build will be available on App Store Connect
+* You can now create a new version of the App on App Store Connect, enter the Apps details, attach the new build and submit it for review.
 * Once the App is approved by Apple it will appear on the App Store
 
